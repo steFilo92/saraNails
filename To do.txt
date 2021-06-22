@@ -1,0 +1,9 @@
+migliorare impostazione grafiche
+importare header e footer esterni.  embed html o php?
+inserire immagini lavori e attestati, mousehover descrizione
+
+try
+mediaquery
+foto a scorrimento
+collegamento a whatsapp
+
